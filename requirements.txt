@@ -1,0 +1,7 @@
+jupyter
+notebook
+nbc convert
+pandas
+numpy
+matplotlib
+
